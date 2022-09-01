@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2019v5.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2020-11-07T22:03:35-05:00</ReturnTs>
+    <TaxPeriodEndDt>2020-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>824172678</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Rose Accounting PLLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>13597 Charles Ln</AddressLine1Txt>
+        <CityNm>Becker</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55308</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2019-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>237333627</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Lions International Clear Lake</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LION</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>PO Box 127</AddressLine1Txt>
+        <CityNm>Clear Lake</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55319</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Allan Fahsl</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>3207438001</PhoneNum>
+      <SignatureDt>2020-10-29</SignatureDt>
+      <DiscussWithPaidPreparerInd>false</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Shaun Rose</PreparerPersonNm>
+      <PTIN>P01315551</PTIN>
+      <PhoneNum>6122196104</PhoneNum>
+      <PreparationDt>2020-11-07</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>216.71.3.58</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2020-11-07</IPDt>
+      <IPTm>22:05:01</IPTm>
+      <FederalOriginalSubmissionId>4187222020312bjhxjdx</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2020-11-07</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>D68744B5093FC564155421887B1AE2D467BFFB0C</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>D68744B5093FC564155421887B1AE2D467BFFB0C</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2019</TaxYr>
+    <BuildTS>2021-04-22 16:20:28Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="4">
+    <IRS990 documentId="IRS990">
+      <PrincipalOfficerNm>Allan Fahsl</PrincipalOfficerNm>
+      <GrossReceiptsAmt>4989247</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501cInd organization501cTypeTxt="4">X</Organization501cInd>
+      <WebsiteAddressTxt>www.clearlakelionsmn.org</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1973</FormationYr>
+      <LegalDomicileStateCd>MN</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>To serve the needs of the local community through volunteer projects.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>15</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>15</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>6</TotalEmployeeCnt>
+      <TotalVolunteersCnt>75</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>135061</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>3743</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>2320</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>5920</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>5764</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>967</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>934</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>229100</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>151980</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>239730</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>160998</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>185205</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>121473</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>5230</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>4862</CYBenefitsPaidToMembersAmt>
+      <CYSalariesCompEmpBnftPaidAmt>0</CYSalariesCompEmpBnftPaidAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>13055</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>8608</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>203490</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>134943</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>36240</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>26055</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>376713</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>417943</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>34199</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>49374</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>342514</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>368569</NetAssetsOrFundBalancesEOYAmt>
+      <MissionDesc>To serve the needs of the local community through volunteer projects.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>134847</ExpenseAmt>
+      <GrantAmt>121473</GrantAmt>
+      <Desc>Provide a place to meet and to be active in community activities to fund the needs of the community through fundraising and lawful gambling activities.</Desc>
+      <TotalProgramServiceExpensesAmt>134847</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind>false</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd>false</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd>false</PoliticalCampaignActyInd>
+      <SubjectToProxyTaxInd>false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+      <ConservationEasementsInd>false</ConservationEasementsInd>
+      <CollectionsOfArtInd>false</CollectionsOfArtInd>
+      <CreditCounselingInd>false</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>false</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd>false</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd>false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd>false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd>false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd>false</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd>false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd>false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd>false</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd referenceDocumentId="990G">true</FundraisingActivitiesInd>
+      <GamingActivitiesInd referenceDocumentId="990G">true</GamingActivitiesInd>
+      <OperateHospitalInd>false</OperateHospitalInd>
+      <GrantsToOrganizationsInd referenceDocumentId="990I">true</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd referenceDocumentId="990I">true</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>false</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>false</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>false</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd>false</DisregardedEntityInd>
+      <RelatedEntityInd>false</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>false</RelatedOrganizationCtrlEntInd>
+      <ActivitiesConductedPrtshpInd>false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>1</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>6</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>true</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>true</Form990TFiledInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>false</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>15</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>15</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>true</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>true</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>true</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>false</ConflictOfInterestPolicyInd>
+      <WhistleblowerPolicyInd>false</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>false</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>false</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>true</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>MN</StatesWhereCopyOfReturnIsFldCd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>Ed Ploof</PersonNm>
+        <PhoneNum>3207438001</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>PO Box 127</AddressLine1Txt>
+          <CityNm>Clear Lake</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>55319</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Allan Fahsl</PersonNm>
+        <TitleTxt>President</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Kevin Goenner</PersonNm>
+        <TitleTxt>Secretary</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Ed Ploof</PersonNm>
+        <TitleTxt>Treasurer</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Kristi Schendzielos</PersonNm>
+        <TitleTxt>Gambling Manager</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Eric Kronenburg</PersonNm>
+        <TitleTxt>1st Vice President</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Norm Ashfeld</PersonNm>
+        <TitleTxt>2nd Vice President</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Brian Goenner</PersonNm>
+        <TitleTxt>3rd Vice President</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Jerry Boom</PersonNm>
+        <TitleTxt>Lion Tamer</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Clint Schendzielos</PersonNm>
+        <TitleTxt>Tail Twister</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Paul Hans</PersonNm>
+        <TitleTxt>Past President</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Steve Kustermann</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Stan Berg</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Glen Peterson</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Bill Kiffmeyer</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Glenn Goenner</PersonNm>
+        <TitleTxt>Director</TitleTxt>
+        <AverageHoursPerWeekRt>1.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>0</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>0</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>false</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>false</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <AllOtherContributionsAmt>2320</AllOtherContributionsAmt>
+      <TotalContributionsAmt>2320</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>Membership Dues</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>5764</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>5764</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>5764</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>934</TotalRevenueColumnAmt>
+        <ExclusionAmt>934</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <FundraisingGrossIncomeAmt>17128</FundraisingGrossIncomeAmt>
+      <FundraisingDirectExpensesAmt>10000</FundraisingDirectExpensesAmt>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>7128</TotalRevenueColumnAmt>
+        <ExclusionAmt>7128</ExclusionAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <GamingGrossIncomeAmt>4960767</GamingGrossIncomeAmt>
+      <GamingDirectExpensesAmt>4818249</GamingDirectExpensesAmt>
+      <NetIncomeFromGamingGrp>
+        <TotalRevenueColumnAmt>142518</TotalRevenueColumnAmt>
+        <UnrelatedBusinessRevenueAmt>135061</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>7457</ExclusionAmt>
+      </NetIncomeFromGamingGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Member EventConvention</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>1355</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>1355</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Uniforms</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>259</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>259</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>Golf</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>695</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>695</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <MiscellaneousRevenueGrp>
+        <TotalRevenueColumnAmt>25</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>25</RelatedOrExemptFuncIncomeAmt>
+      </MiscellaneousRevenueGrp>
+      <OtherRevenueTotalAmt>2334</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>160998</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>8098</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>135061</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>15519</ExclusionAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>75737</TotalAmt>
+        <ProgramServicesAmt>75737</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>45736</TotalAmt>
+        <ProgramServicesAmt>45736</ProgramServicesAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <BenefitsToMembersGrp>
+        <TotalAmt>4862</TotalAmt>
+        <ProgramServicesAmt>4862</ProgramServicesAmt>
+      </BenefitsToMembersGrp>
+      <AdvertisingGrp>
+        <TotalAmt>548</TotalAmt>
+        <ProgramServicesAmt>548</ProgramServicesAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>45</TotalAmt>
+        <ProgramServicesAmt>45</ProgramServicesAmt>
+      </OfficeExpensesGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>4388</TotalAmt>
+        <ProgramServicesAmt>4388</ProgramServicesAmt>
+      </ConferencesMeetingsGrp>
+      <InsuranceGrp>
+        <TotalAmt>1348</TotalAmt>
+        <ProgramServicesAmt>1348</ProgramServicesAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>Bank Charges</Desc>
+        <TotalAmt>32</TotalAmt>
+        <ManagementAndGeneralAmt>32</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Repairs</Desc>
+        <TotalAmt>75</TotalAmt>
+        <ProgramServicesAmt>75</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>AwardsGiftsFlowers</Desc>
+        <TotalAmt>1224</TotalAmt>
+        <ProgramServicesAmt>1224</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>Uniforms</Desc>
+        <TotalAmt>164</TotalAmt>
+        <ProgramServicesAmt>164</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>784</TotalAmt>
+        <ProgramServicesAmt>720</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>64</ManagementAndGeneralAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>134943</TotalAmt>
+        <ProgramServicesAmt>134847</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>96</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>271166</BOYAmt>
+        <EOYAmt>276217</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>72179</BOYAmt>
+        <EOYAmt>92603</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <InventoriesForSaleOrUseGrp>
+        <BOYAmt>33368</BOYAmt>
+        <EOYAmt>49123</EOYAmt>
+      </InventoriesForSaleOrUseGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>376713</BOYAmt>
+        <EOYAmt>417943</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>34199</BOYAmt>
+        <EOYAmt>49374</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>34199</BOYAmt>
+        <EOYAmt>49374</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>342514</BOYAmt>
+        <EOYAmt>368569</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>342514</BOYAmt>
+        <EOYAmt>368569</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>376713</BOYAmt>
+        <EOYAmt>417943</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <ReconcilationRevenueExpnssAmt>26055</ReconcilationRevenueExpnssAmt>
+      <OtherChangesInNetAssetsAmt>0</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>false</FSAuditedInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleG documentId="990G">
+      <FundraisingEventInformationGrp>
+        <Event1Nm>Palmer Days</Event1Nm>
+        <GrossReceiptsEvent1Amt>8450</GrossReceiptsEvent1Amt>
+        <GrossRevenueEvent1Amt>8450</GrossRevenueEvent1Amt>
+        <OtherDirectExpensesEvent1Amt>5856</OtherDirectExpensesEvent1Amt>
+        <Event2Nm>Fish Fry</Event2Nm>
+        <GrossReceiptsEvent2Amt>4208</GrossReceiptsEvent2Amt>
+        <GrossRevenueEvent2Amt>4208</GrossRevenueEvent2Amt>
+        <OtherDirectExpensesEvent2Amt>2948</OtherDirectExpensesEvent2Amt>
+        <OtherEventsTotalCnt>3</OtherEventsTotalCnt>
+        <GrossReceiptsOtherEventsAmt>4470</GrossReceiptsOtherEventsAmt>
+        <GrossRevenueOtherEventsAmt>4470</GrossRevenueOtherEventsAmt>
+        <OthDirectExpnssOtherEventsAmt>1196</OthDirectExpnssOtherEventsAmt>
+        <GrossReceiptsTotalAmt>17128</GrossReceiptsTotalAmt>
+        <GrossRevenueTotalEventsAmt>17128</GrossRevenueTotalEventsAmt>
+        <OthDirectExpnssTotalEventsAmt>10000</OthDirectExpnssTotalEventsAmt>
+        <DirectExpenseSummaryEventsAmt>10000</DirectExpenseSummaryEventsAmt>
+        <NetIncomeSummaryAmt>7128</NetIncomeSummaryAmt>
+      </FundraisingEventInformationGrp>
+      <GamingInformationGrp>
+        <GrossRevenueBingoAmt>32203</GrossRevenueBingoAmt>
+        <CashPrizesBingoAmt>22987</CashPrizesBingoAmt>
+        <OtherDirectExpensesBingoAmt>1759</OtherDirectExpensesBingoAmt>
+        <VolunteerLaborBingoInd>false</VolunteerLaborBingoInd>
+        <GrossRevenuePullTabsAmt>4928564</GrossRevenuePullTabsAmt>
+        <CashPrizesPullTabsAmt>4177934</CashPrizesPullTabsAmt>
+        <RentFacilityCostsPullTabsAmt>122546</RentFacilityCostsPullTabsAmt>
+        <OtherDirectExpensesPullTabsAmt>493023</OtherDirectExpensesPullTabsAmt>
+        <VolunteerLaborPullTabsInd>false</VolunteerLaborPullTabsInd>
+        <GrossRevenueTotalGamingAmt>4960767</GrossRevenueTotalGamingAmt>
+        <CashPrizesTotalGamingAmt>4200921</CashPrizesTotalGamingAmt>
+        <RentFcltyCostsTotalGamingAmt>122546</RentFcltyCostsTotalGamingAmt>
+        <OthDirectExpnssTotalGamingAmt>494782</OthDirectExpnssTotalGamingAmt>
+        <DirectExpenseSummaryGamingAmt>4818249</DirectExpenseSummaryGamingAmt>
+        <NetGamingIncomeSummaryAmt>142518</NetGamingIncomeSummaryAmt>
+      </GamingInformationGrp>
+      <StatesWhereGamingConductedCd>MN</StatesWhereGamingConductedCd>
+      <LicensedInd>true</LicensedInd>
+      <LicenseSuspendedEtcInd>false</LicenseSuspendedEtcInd>
+      <GamingWithNonmembersInd>true</GamingWithNonmembersInd>
+      <MemberOfOtherEntityInd>false</MemberOfOtherEntityInd>
+      <GamingOtherFacilityPct>1.000</GamingOtherFacilityPct>
+      <IndividualWithBooksNm>Ed Ploof</IndividualWithBooksNm>
+      <PersonsWithBooksUSAddress>
+        <AddressLine1Txt>PO Box 127</AddressLine1Txt>
+        <CityNm>Clear Lake</CityNm>
+        <StateAbbreviationCd>MN</StateAbbreviationCd>
+        <ZIPCd>55319</ZIPCd>
+      </PersonsWithBooksUSAddress>
+      <CntrctWith3rdPrtyForGameRevInd>false</CntrctWith3rdPrtyForGameRevInd>
+      <GamingManagerPersonNm>Kristi Schendzielos</GamingManagerPersonNm>
+      <GamingManagerCompensationAmt>39250</GamingManagerCompensationAmt>
+      <GamingManagerServicesProvTxt>All as required by Minnesota Statutes Chapter 349A</GamingManagerServicesProvTxt>
+      <GamingManagerIsDirectorOfcrInd>X</GamingManagerIsDirectorOfcrInd>
+      <GamingManagerIsEmployeeInd>X</GamingManagerIsEmployeeInd>
+      <CharitableDistributionRqrInd>true</CharitableDistributionRqrInd>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="990I">
+      <GrantRecordsMaintainedInd>true</GrantRecordsMaintainedInd>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Becker School District</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>12000 Hancock St SE</AddressLine1Txt>
+          <CityNm>Becker</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>55308</ZIPCd>
+        </USAddress>
+        <CashGrantAmt>11050</CashGrantAmt>
+        <PurposeOfGrantTxt>Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Mary of the Visitation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <CashGrantAmt>6600</CashGrantAmt>
+        <PurposeOfGrantTxt>Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Becker Food Shelf</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <CashGrantAmt>8000</CashGrantAmt>
+        <PurposeOfGrantTxt>Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Lions Club International Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Clear Lake Clearwater Foodshelf</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <CashGrantAmt>8000</CashGrantAmt>
+        <PurposeOfGrantTxt>Support</PurposeOfGrantTxt>
+      </RecipientTable>
+      <GrantsOtherAsstToIndivInUSGrp>
+        <GrantTypeTxt>Hardship Assistance</GrantTypeTxt>
+        <RecipientCnt>13</RecipientCnt>
+        <CashGrantAmt>20231</CashGrantAmt>
+      </GrantsOtherAsstToIndivInUSGrp>
+      <GrantsOtherAsstToIndivInUSGrp>
+        <GrantTypeTxt>Scholarships</GrantTypeTxt>
+        <RecipientCnt>6</RecipientCnt>
+        <CashGrantAmt>15000</CashGrantAmt>
+      </GrantsOtherAsstToIndivInUSGrp>
+      <GrantsOtherAsstToIndivInUSGrp>
+        <GrantTypeTxt>Veteran Assistance</GrantTypeTxt>
+        <RecipientCnt>2</RecipientCnt>
+        <CashGrantAmt>2500</CashGrantAmt>
+      </GrantsOtherAsstToIndivInUSGrp>
+      <GrantsOtherAsstToIndivInUSGrp>
+        <GrantTypeTxt>Youth Activities</GrantTypeTxt>
+        <RecipientCnt>7</RecipientCnt>
+        <CashGrantAmt>8005</CashGrantAmt>
+      </GrantsOtherAsstToIndivInUSGrp>
+    </IRS990ScheduleI>
+    <IRS990ScheduleO documentId="990O">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Members or stockholder classes and rights Part VI line 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>The Organization is made up of members.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Member election for additional members Part VI line 7a</FormAndLineReferenceDesc>
+        <ExplanationTxt>Members elect officers of the governing board.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Governing body decisions Part VI line 7b</FormAndLineReferenceDesc>
+        <ExplanationTxt>All decisions of the governing body are ratified by the members.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Form 990 governing body review Part VI line 11</FormAndLineReferenceDesc>
+        <ExplanationTxt>Form 990 is reviewed by the board.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Other officer or key employee compensation Part VI line 15b</FormAndLineReferenceDesc>
+        <ExplanationTxt>Gambling Manager salary reviewed by CEO and Gambling Committee and voted on by the board.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Governing documents etc available to public Part VI line 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>The organization makes its governing documents and financial statements available to the public upon request.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>
