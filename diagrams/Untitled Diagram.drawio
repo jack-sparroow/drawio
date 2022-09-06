@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T05:04:34.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.7" etag="URX36E2t1ZQ04bRvXdhP" type="github"><diagram id="g01ChuhKqkqEcbVo_8ic">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-06T05:11:15.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="q_cORGdqec429bZ5NdhE" version="20.2.7" type="github">
+  <diagram id="g01ChuhKqkqEcbVo_8ic" name="Page-1">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMg2cG_UvQhNK_2_DiK9-1" target="WMg2cG_UvQhNK_2_DiK9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-1" value="Create Compute&lt;br&gt;Instance in&amp;nbsp;&lt;br&gt;Azure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="230" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMg2cG_UvQhNK_2_DiK9-2" target="WMg2cG_UvQhNK_2_DiK9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-2" value="Create data store instance associated with storage account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMg2cG_UvQhNK_2_DiK9-4" target="WMg2cG_UvQhNK_2_DiK9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-4" value="On compute instance, start jupyter notebook and install dependencies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMg2cG_UvQhNK_2_DiK9-6" target="WMg2cG_UvQhNK_2_DiK9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-6" value="Once done, integrate IRS-XML library in jupyter notebook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMg2cG_UvQhNK_2_DiK9-8" target="WMg2cG_UvQhNK_2_DiK9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-8" value="After it, mount data store with VM and we can access files from the VM itself which are stored in storage account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMg2cG_UvQhNK_2_DiK9-10" target="WMg2cG_UvQhNK_2_DiK9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-10" value="Once files are accessed, parse data using IRS&lt;br&gt;library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMg2cG_UvQhNK_2_DiK9-12" target="WMg2cG_UvQhNK_2_DiK9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-12" value="Normalize gathered data by extracting specific fields" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-13" value="Dump data to elastic cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WMg2cG_UvQhNK_2_DiK9-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;New Data Extraction Flow&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="320" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
