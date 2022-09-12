@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T05:57:18.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PuSLnURECKk4KZhWiCqo" version="20.2.8" type="github"><diagram id="pvL0ssWES93ySVcKJ88J" name="Page-1">3Vlbd+MmEP41Pk0f0iMkX+JHx5dt2qTZxslpz75hCUt0EWgBxU5+fQcJ2ZbxRXu6id08WJaGgUHfzMcMqBUM0+UnibPkTkSEtXwvWraCUcv3Ebrqwp+RvJSSXt8KYkkjq7QWTOkrsULPSnMaEVVT1EIwTbO6MBSck1DXZFhKsairzQWrW81wTBzBNMTMlf5FI52U0quOt5b/SmicVJaRZ1tSXClbgUpwJBYbomDcCoZSCF3epcshYQa8Cpey32RP62piknDdpMPviHvoywwP7pWSuvsN9759ukS9cphnzHL7xna2+qWCQIqcR8SM4rWC60VCNZlmODStC3A6yBKdMnhCcGuHI1KT5d6JotXrQ9wQkRItX0BlWYWIRcyGzCoWFmsH9CoHJBvgB4EVYuv0eDX2Ghe4sdB8B0y+g9LgNZcERCOsMfxNcKiFNbSJHaCg6wApLcVXMhRMSJBwwUHzek4Z2xJhRmMOjyGgRkB+bTClEJgD25DSKDJmdnqk7rMf4BTkB3WvoLbrFdTf5ZW3cgo6v9B1QOq7IPldfwdKHf+tYOoch4lEsObZRyF1ImLBMRuvpVvxtNa5FSKz8P1DtH6xCzjOtdgFrjF0GFqYl8hlSA68UGDTAJYx0Qf02rtdJQnDmj7X5/HDUQ8c1KfapBrfu4QfWO0yszDMJNzFugBoWzISC84EjkD/lWZmkaEMUqHfxamJXD5T2c5+FxxSCmRcWEd+Pq7tSm64yHJ9uepq1TxGlRlXzOHy9HD7kzo53QJvK1N0dtANdVy2oTdjW/+jsa3dkG3dU7KtfZBtfpOof+IlyTA3hAMCGJu88JyQxVjHx7j4ZZky4Jx3zcQM/oaSYE3s86OkcQyZ3BSh5optBTHPeaip4CdnU6d3dmyqKr+PQ6duQzr1TkmnroP64MvTw9ikIAhWN+43yRY0IcqEyiKXAILKdPz77hauuaI8NnOTarliYpSnBS2LWUdltV3wMhQqFeoyFTwWhUxpzAH7U9PoCp0fjdz18X9Oo15DGqE9vnofHrmb6+Y8arvNg8gQwmwPfS8VZfKghEWrlJLiLCspVNKlaFUGJ8MQ36zva9kGiVxTX4lBiePUTmerFORCprBBfSXRDS9S5XHKw/Y2T41J0//RzGclmdSmPpci3TCBy9zojWioT85t5J1hjvxwJSeqDvqOsvvqlOxG7gFEc3p33ObPUjzTyCj8Nr3/o2V3WoYYJHLIXFmqqke1nTB1Uq4P4EMzVK7LkrboDPAoTUPjC4JlmDTh7301grsaPOIYzAOI3q0IK75eZEIpOmNmD1q80MQQ+gwoHJxhfr5yIqmIFVOIOacCpXtXDi2CRBXaMGfvgagMooEccPXWgcCp/dHpnJ0/fHfbUfqj95/9YavWu7JqPXY4Y1xhEjuk4725+OZh2u9DeoyJOgN2bXsz2HUC+s7edNfpESmO1RhktALfP3OSN9rhj6UsKq0E1lowXVQseyFH7wJ5v11HvLPjcwnadeTc/X7A4XH9wapo2/jsF4z/BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-12T15:30:27.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iE3TeZ6cOdkFZHBFjll0" version="20.2.8" type="github">
+  <diagram id="pvL0ssWES93ySVcKJ88J" name="Page-1">
+    <mxGraphModel dx="1103" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="210" width="750" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-2" value="Azure Data Factory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="140" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="140" width="2620" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K1n01ZbaAOssrt6qa7qG-3" target="K1n01ZbaAOssrt6qa7qG-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-3" value="Stage - 1&lt;br&gt;&lt;br&gt;Download zip Files&amp;nbsp;&lt;br&gt;(not done)&amp;nbsp;&lt;br&gt;&lt;br&gt;Inoput-&amp;gt; list of URL&#39;s" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K1n01ZbaAOssrt6qa7qG-4" target="K1n01ZbaAOssrt6qa7qG-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-4" value="Stage - 2&lt;br&gt;&lt;br&gt;Unzip and put in storage&lt;br&gt;&lt;br&gt;(.xml) Blob Create BlobTrigger for azure function" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K1n01ZbaAOssrt6qa7qG-6" target="K1n01ZbaAOssrt6qa7qG-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-6" value="AZURE Func&lt;br&gt;Stage - 3&lt;br&gt;&lt;br&gt;First parse XML using irsx and dump all data in cosmos-mongo instance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K1n01ZbaAOssrt6qa7qG-7" target="K1n01ZbaAOssrt6qa7qG-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-7" value="AZURE Func&lt;br&gt;Stage - 4&lt;br&gt;Add one more field for mapping all fields to 270 fields in cosmos&lt;br&gt;key name -&amp;gt; normalizedInput&lt;br&gt;&lt;br&gt;Column B To Column F mapping from normalization Dict" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K1n01ZbaAOssrt6qa7qG-11" target="K1n01ZbaAOssrt6qa7qG-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-11" value="AZURE Func&lt;br&gt;Stage - 5&lt;br&gt;Provide JSON of mapped fields to AZURE functions and dump the final output to elastic search&lt;br&gt;&lt;br&gt;Output -&amp;gt; Tags, Location (possible) JSONFormat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-18" value="Stage-6&lt;br&gt;Dump output of stage-5 Response to elastic search&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-20" value="Stage-7&lt;br&gt;Dump output of stage-5 Response to cosmos-Mongo&amp;nbsp;&lt;br&gt;under keyname -&amp;gt; IRS990Digest" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="390" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K1n01ZbaAOssrt6qa7qG-21" value="Dead letter Queue&lt;br&gt;&lt;br&gt;Error handelling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
