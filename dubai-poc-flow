@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T11:44:02.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-eHEyLXLkEuX_MNDFkqR" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T04:43:08.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ApjPQr3T0tMsdPVubGvr" version="20.5.1" type="github">
   <diagram id="DTXCYctJVO1OibKXfOdo" name="Page-1">
     <mxGraphModel dx="1186" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,51 @@
         </mxCell>
         <mxCell id="dUqbFB7L7I_39LVl4UpC-15" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Proposed User Login Flow&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="323.5" y="40" width="246.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dUqbFB7L7I_39LVl4UpC-17" target="dUqbFB7L7I_39LVl4UpC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-17" value="Login Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="797" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dUqbFB7L7I_39LVl4UpC-20" target="dUqbFB7L7I_39LVl4UpC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dUqbFB7L7I_39LVl4UpC-20" target="dUqbFB7L7I_39LVl4UpC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-20" value="AWS Cognito" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="797" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dUqbFB7L7I_39LVl4UpC-22" target="dUqbFB7L7I_39LVl4UpC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-22" value="Pretoken&lt;br&gt;lambda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="637" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dUqbFB7L7I_39LVl4UpC-24" target="dUqbFB7L7I_39LVl4UpC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-24" value="Token with custom claims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="927" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-25" value="Triggers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444" y="747" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dUqbFB7L7I_39LVl4UpC-27" target="dUqbFB7L7I_39LVl4UpC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-27" value="Generates token with custom claims" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="624" y="717" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-28" value="Returns token to&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="797" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-29" value="Calls" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="793" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUqbFB7L7I_39LVl4UpC-30" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Proposed User Login Flow&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="567" width="246.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
